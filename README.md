@@ -47,11 +47,11 @@ Example :
 ```
 ꦄꦠꦸꦫꦺꦤ꧀ umur iku 21
 ꦠꦸꦭꦶꦱꦺꦤ꧀ "Umur lu " + umur
-ꦤꦼꦏ꧀ umur luwih gede teko 20
+ꦤꦼꦏ꧀ umur luweh gede teko 20
   ꦠꦸꦭꦶꦱꦺꦤ꧀ "Elu tua"
   ꦄꦠꦸꦫꦺꦤ꧀ umurgua iku umur + 10
   ꦠꦸꦭꦶꦱꦺꦤ꧀ "ꦤꦼꦏ꧀ gua umurnya " + umurgua
-  ꦤꦼꦏ꧀ umurgua luwih gede teko 30
+  ꦤꦼꦏ꧀ umurgua luweh gede teko 30
     ꦠꦸꦭꦶꦱꦺꦤ꧀ "gua lebih tua"
   udahan
 ꦤꦼꦏ꧀gak
@@ -71,7 +71,7 @@ whichis jumlah iku 11
 ꦠꦸꦭꦶꦱꦺꦤ꧀ "is hidup :" + isHidup
 
 ꦒꦌ i ꦥꦼꦁ 10
-  ꦤꦼꦏ꧀ i luwih gede teko 3
+  ꦤꦼꦏ꧀ i luweh gede teko 3
     ꦠꦸꦭꦶꦱꦺꦤ꧀ "loop ke " + i
   udahan
 udahan

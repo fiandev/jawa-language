@@ -79,7 +79,7 @@ Comparison :
 - `bedo karo`: ' != ',
 - `buwedo karo`: ' !== ',
 - `luweh gede teko`: ' > ',
-- `lebih cilik teko`: ' < ',
+- `luweh cilik teko`: ' < ',
 - `luweh gede sampe`: ' >= ',
 - `luweh cilik sampe`: ' <= '
 
