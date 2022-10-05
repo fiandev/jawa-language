@@ -1,0 +1,47 @@
+ngawe my_story
+    aturen umur iku 10
+    tulisen "Umur lu " + umur
+wes
+
+ngawe ngulang n
+    gae i peng n
+      nek i podo karo 3
+        tulisen "loop ke " + i
+      wes
+    wes
+sak mene
+
+ngawe fungsi_param a
+    tulisen "a: " + a
+sak mene
+
+ngawe fungsiMultiParam a b c
+    tulisen "argumen pertama: " + a
+    tulisen "argumen kedua: " + b
+    tulisen "argumen ketiga: " + c
+sak mene
+
+nyeluk my_story
+tulisen "\n"
+
+nyeluk ngulang 20
+tulisen "\n"
+
+aturen nama iku "adi"
+
+nyeluk fungsi_param nama
+tulisen "\n"
+
+nyeluk fungsi_param "Rayhan"
+tulisen "\n"
+
+nyeluk fungsi_param 3
+tulisen "\n"
+
+nyeluk fungsiMultiParam 3 4 5
+tulisen "\n"
+
+aturen nama2 iku "budi"
+
+nyeluk fungsiMultiParam 1 2 3.
+tulisen "\n"

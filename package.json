@@ -1,0 +1,28 @@
+{
+  "name": "jawa-language",
+  "version": "0.0.1",
+  "description": "jawa programming language",
+  "main": "jawa-interpreter.js",
+  "bin": {
+    "jawa": "./jawa-interpreter.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiandev/jawa-language.git"
+  },
+  "author": "Fiandev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fiandev/jawa-language/issues"
+  },
+  "homepage": "https://github.com/fiandev/jawa-language#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
