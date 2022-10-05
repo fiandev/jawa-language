@@ -53,10 +53,10 @@ Example :
   ꦠꦸꦭꦶꦱꦺꦤ꧀ "ꦤꦼꦏ꧀ gua umurnya " + umurgua
   ꦤꦼꦏ꧀ umurgua luweh gede teko 30
     ꦠꦸꦭꦶꦱꦺꦤ꧀ "gua lebih tua"
-  udahan
+  ꦮꦼꦱ꧀
 ꦤꦼꦏ꧀gak
   ꦠꦸꦭꦶꦱꦺꦤ꧀ "dasar bocil"
-udahan
+ꦮꦼꦱ꧀
 ꦠꦸꦭꦶꦱꦺꦤ꧀ "Udahan ah"
 ```
 
@@ -67,14 +67,14 @@ udahan
 whichis jumlah iku 11
 ꦠꦸꦭꦶꦱꦺꦤ꧀ "Jumlah: " + jumlah
 
-ꦄꦠꦸꦫꦺꦤ꧀ isHidup iku positive vibes
+ꦄꦠꦸꦫꦺꦤ꧀ isHidup iku apik
 ꦠꦸꦭꦶꦱꦺꦤ꧀ "is hidup :" + isHidup
 
 ꦒꦌ i ꦥꦼꦁ 10
   ꦤꦼꦏ꧀ i luweh gede teko 3
     ꦠꦸꦭꦶꦱꦺꦤ꧀ "loop ke " + i
-  udahan
-udahan
+  ꦮꦼꦱ꧀
+ꦮꦼꦱ꧀
 ```
 
 ### Command
