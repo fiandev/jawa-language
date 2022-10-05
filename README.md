@@ -13,7 +13,7 @@ npm install -g jawa-language
 Or Clone this repository
 
 ```bash
-git clone https://github.com/RioChndr/jawa-language.git
+git clone https://github.com/fiandev/jawa-language.git
 ```
 
 ### Run
