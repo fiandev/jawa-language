@@ -6,7 +6,7 @@ Some command just like javascript, the only different is keyword and this langua
 ### Assign variable
 
 default  | latin | hanacaraka
-------------- | -------------
+------------- | ------------- | -------------
 let  | aturen | ꦄꦠꦸꦫꦺꦩ꧀
 const  | pancet | ꦥꦚ꧀ꦕꦺꦠ꧀
 
@@ -176,7 +176,7 @@ nyeluk fungsi_param_banyak 3 4 5
 ### async / await
 
 default  | latin | hanacaraka
-------------- | -------------
+------------- | ------------- | -------------
 async  | sek | ꦱꦺꦏ꧀
 await  | enteni | ꦄꦼꦤ꧀ꦠꦺꦤꦶ
 
