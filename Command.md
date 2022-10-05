@@ -8,7 +8,7 @@ Assign variable
 ꦄꦠꦸꦫꦺꦤ꧀ foo iku "hello world"
 // let foo = "hello world"
 
-seriously foo iku 123
+ꦥꦚ꧀ꦕꦺꦠ꧀ foo iku 123
 // const foo = 123
 ```
 
@@ -21,13 +21,13 @@ Reassign variable
 **Boolean**
 
 ```
-ꦄꦠꦸꦫꦺꦤ꧀ foo iku positive vibes
+ꦄꦠꦸꦫꦺꦤ꧀ foo iku apik
 // let foo = true
 
-ꦄꦠꦸꦫꦺꦤ꧀ foo iku worth it
+ꦄꦠꦸꦫꦺꦤ꧀ foo iku elek
 // let foo = true
 
-ꦄꦠꦸꦫꦺꦤ꧀ foo iku negative vibes
+ꦄꦠꦸꦫꦺꦤ꧀ foo iku elek
 // let foo = false
 ```
 
@@ -44,9 +44,9 @@ Reassign variable
 ### Condition
 
 ```
-kalo foo iku "Hello world"
+ꦤꦼꦏ꧀ foo podo karo "Hello world"
   ꦠꦸꦭꦶꦱꦺꦤ꧀ "its hello world"
-udahan
+ꦮꦼꦱ꧀
 
 // transform to
 if(foo == "Hello world"){
@@ -55,13 +55,13 @@ if(foo == "Hello world"){
 ```
 
 ```
-kalo foo lebih gede 3
+ꦤꦼꦏ꧀ foo luweh gede teko 3
   ꦠꦸꦭꦶꦱꦺꦤ꧀ "its bigger than 3"
 perhaps foo iku 3
   ꦠꦸꦭꦶꦱꦺꦤ꧀ "foo is 3"
-kalogak
+ꦤꦼꦏ꧀gak
   ꦠꦸꦭꦶꦱꦺꦤ꧀ "its smaller than 3"
-udahan
+ꦮꦼꦱ꧀
 
 // transform to
 if(foo > 3){
@@ -74,21 +74,23 @@ if(foo > 3){
 ```
 
 Comparison : 
-- `iku`: ' == ',
-- `gak`: ' != ',
-- `lebih gede`: ' > ',
-- `lebih kecil`: ' < ',
-- `lebih gede sama dengan`: ' >= ',
-- `lebih kecil sama dengan`: ' <= '
+- `podo`: ' == ',
+- `persis mbek`: ' === ',
+- `bedo karo`: ' != ',
+- `buwedo karo`: ' !== ',
+- `luweh gede teko`: ' > ',
+- `lebih cilik teko`: ' < ',
+- `luweh gede sampe`: ' >= ',
+- `luweh cilik sampe`: ' <= '
 
 ### Loop
 
 ```
-fomo i endup 10
-  kalo i lebih gede 3
+ꦒꦌ i ꦥꦼꦁ 10
+  ꦤꦼꦏ꧀ i luweh gede teko 3
     ꦠꦸꦭꦶꦱꦺꦤ꧀ "loop ke " + i
-  udahan
-udahan
+  ꦮꦼꦱ꧀
+ꦮꦼꦱ꧀
 
 // transform to
 for (let i = 0; i < 10; i++) {
@@ -100,20 +102,20 @@ for (let i = 0; i < 10; i++) {
 
 ### Function
 ```
-so about my_story
+ꦔꦮꦺ my_story
     ꦄꦠꦸꦫꦺꦤ꧀ umur iku 21
     ꦠꦸꦭꦶꦱꦺꦤ꧀ "Umur lu " + umur
-thats it sih
+ꦮꦼꦱ꧀
 
-call my_story
+ꦚꦼꦭꦸꦏ꧀ my_story
 
-so about fungsi_param_banyak a b c
+ꦔꦮꦺ fungsi_param_banyak a b c
     ꦠꦸꦭꦶꦱꦺꦤ꧀ "a: " + a
     ꦠꦸꦭꦶꦱꦺꦤ꧀ "b: " + b
     ꦠꦸꦭꦶꦱꦺꦤ꧀ "c: " + c
-thats it sih
+ꦮꦼꦱ꧀
 
-call fungsi_param_banyak 3 4 5
+ꦚꦼꦭꦸꦏ꧀ fungsi_param_banyak 3 4 5
 ```
 
 ### Async Function
@@ -121,29 +123,29 @@ call fungsi_param_banyak 3 4 5
 overthinking my_story
     ꦄꦠꦸꦫꦺꦤ꧀ umur iku 21
     ꦠꦸꦭꦶꦱꦺꦤ꧀ "Umur lu " + umur
-thats it sih
+ꦮꦼꦱ꧀
 
-call my_story
+ꦚꦼꦭꦸꦏ꧀ my_story
 
-so about fungsi_param_banyak a b c
+ꦔꦮꦺ fungsi_param_banyak a b c
     ꦠꦸꦭꦶꦱꦺꦤ꧀ "a: " + a
     ꦠꦸꦭꦶꦱꦺꦤ꧀ "b: " + b
     ꦠꦸꦭꦶꦱꦺꦤ꧀ "c: " + c
-thats it sih
+ꦮꦼꦱ꧀
 
-call fungsi_param_banyak 3 4 5
+ꦚꦼꦭꦸꦏ꧀ fungsi_param_banyak 3 4 5
 ```
 
 ### Try Catch & Exception
 ```
-trust issue
+ꦚꦼꦭꦸꦏ꧀
   ꦠꦸꦭꦶꦱꦺꦤ꧀ "Something wrong"
-  toxic "Error message"
-backstab
+  ꦈꦚ꧀ꦕꦭꦺꦤ꧀ "Error message"
+ꦫꦆꦱꦺꦴ
   ꦠꦸꦭꦶꦱꦺꦤ꧀ "Catch error"
-yaudahlahya
+U
   ꦠꦸꦭꦶꦱꦺꦤ꧀ "finish finally"
-udahan
+ꦮꦼꦱ꧀
 
 
 // transform to
