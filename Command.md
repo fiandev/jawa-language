@@ -20,6 +20,7 @@ a = "bar"
 // latin
 aturen a iku "foo"
 gantien a iku "bar"
+
 // hanacaraka
 ꦄꦠꦸꦫꦺꦩ꧀ a iku "foo"
 ꦒꦤ꧀ꦠꦶꦪꦺꦤ꧀ a iku "bar"
