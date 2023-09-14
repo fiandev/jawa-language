@@ -1,4 +1,4 @@
-# jawa Language
+# jawa language
 
 jawa Script is a new programming language, very modern, easy to learn (for javanese), using jawa language on format latin or hanacaraka. No programming experience required.
 
@@ -6,7 +6,7 @@ Thank you for all your contributions, share, star, and everything.
 
 ## Instalation & Run
 
-Install from npm (not publish yet)
+Install from npm
 ```bash
 npm install -g jawa-language
 ```
@@ -46,16 +46,16 @@ Example :
 
 ```
 ꦄꦠꦸꦫꦺꦤ꧀ umur iku 21
-ꦠꦸꦭꦶꦱꦺꦤ꧀ "Umur lu " + umur
+ꦠꦸꦭꦶꦱꦺꦤ꧀ "Umur mu" + umur
 ꦤꦼꦏ꧀ umur luweh gede teko 20
-  ꦠꦸꦭꦶꦱꦺꦤ꧀ "Elu tua"
-  ꦄꦠꦸꦫꦺꦤ꧀ umurgua iku umur + 10
-  ꦠꦸꦭꦶꦱꦺꦤ꧀ "ꦤꦼꦏ꧀ gua umurnya " + umurgua
-  ꦤꦼꦏ꧀ umurgua luweh gede teko 30
-    ꦠꦸꦭꦶꦱꦺꦤ꧀ "gua lebih tua"
+  ꦠꦸꦭꦶꦱꦺꦤ꧀ "Elu tuwek"
+  ꦄꦠꦸꦫꦺꦤ꧀ umurKu iku umur + 10
+  ꦠꦸꦭꦶꦱꦺꦤ꧀ "ꦤꦼꦏ꧀ aku umure " + umurKu
+  ꦤꦼꦏ꧀ umurKu luweh gede teko 30
+    ꦠꦸꦭꦶꦱꦺꦤ꧀ "aku luweh tuwek"
   ꦮꦼꦱ꧀
 ꦤꦼꦏ꧀gak
-  ꦠꦸꦭꦶꦱꦺꦤ꧀ "dasar bocil"
+  ꦠꦸꦭꦶꦱꦺꦤ꧀ "isek bocah"
 ꦮꦼꦱ꧀
 ꦠꦸꦭꦶꦱꦺꦤ꧀ "Udahan ah"
 ```
@@ -67,8 +67,8 @@ Example :
 whichis jumlah iku 11
 ꦠꦸꦭꦶꦱꦺꦤ꧀ "Jumlah: " + jumlah
 
-ꦄꦠꦸꦫꦺꦤ꧀ isHidup iku apik
-ꦠꦸꦭꦶꦱꦺꦤ꧀ "is hidup :" + isHidup
+ꦄꦠꦸꦫꦺꦤ꧀ statusUrip iku apik
+ꦠꦸꦭꦶꦱꦺꦤ꧀ "status urip :" + statusUrip
 
 ꦒꦌ i ꦥꦼꦁ 10
   ꦤꦼꦏ꧀ i luweh gede teko 3

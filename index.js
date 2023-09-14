@@ -22,11 +22,15 @@ const parseArgs = () => {
   return true;
 };
 
-if (!parseArgs()) {
-  process.exit(1);
-}
+const main = () => {
+  if (!parseArgs()) {
+    process.exit(1);
+  }
+  
+  const inputText = fs.readFileSync(fileLocate, "utf-8");
+  
+  const result = flexing(inputText);
+  execCmd(result);
+};
 
-const inputJaksel = fs.readFileSync(fileLocate, "utf-8");
-
-const result = flexing(inputJaksel);
-execCmd(result);
+main();
