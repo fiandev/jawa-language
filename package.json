@@ -1,10 +1,11 @@
 {
   "name": "jawa-language",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "jawa programming language",
   "main": "jawa-interpreter.js",
   "bin": {
-    "jawa": "./jawa-interpreter.js"
+    "jawa": "./bin/jawa",
+    "jawa-language": "./bin/jawa-language"
   },
   "scripts": {
     "test": "jest"
